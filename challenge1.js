@@ -3,6 +3,9 @@
  * Create a function named `printName`
  * - that just prints your name on the screen
  */
+function printName(){
+    console.log("abdullah")
+}
 
 /**
  * Task 2:
